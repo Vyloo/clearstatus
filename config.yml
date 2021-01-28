@@ -18,8 +18,8 @@ params:
   logo: /images/clearstatus.svg
   description_header: Information about <a class='text-grey-darkest' title='Visit
     Cody.onl' href='https://cody.onl/'>Cody's</a> systems operations.<br / >
-    Subscribe to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be
-    alerted of new events.
+    Subscribe to <a class='text-grey-darkest' href='%s' >RSS</a> to be alerted
+    of new events.
   copyrightHolder: Cody
   eventsPerPage: 10
   iconType: image/png
